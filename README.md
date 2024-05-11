@@ -4,3 +4,4 @@
 where the authors studied the role of Ubiquitin Protease in muscle stem cells with slow turnover and the effect of Nedd4L deletion in the exit of quiescence.
 3. There are two datasets in this paper: Muscle Stem Cells vs Myoblasts, and Nedd4L_WT_KO_LFC_counts. For the purpose of this project, I have taken the first dataset of " Muscle Stem Cells vs Myoblasts " with 3 samples per cell tissue.
 4. I chose to use pydeseq2 package for the task.
+5.  All the code can be examined in the Jupyter Notebook present in the repository.
